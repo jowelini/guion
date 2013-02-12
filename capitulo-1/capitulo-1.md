@@ -74,7 +74,7 @@ Guion INIMAT
 > Del río aparece un QUAKSTRONG HEMBRA. El rostro del macho muestra que está encandilado ante la presencia femenina. El corazón de piedras conquista a la hembra al instante. Los dos se acercan acaramelados.
 > Una QUAKSTRONG HEMBRA SEXY aparece en escena. Camina contoneando sugerente su enorme trasero, pasando delante de la pareja. El Quakstrong macho le sigue descaradamente con la mirada, embobado, con los ojos como platos. Su pareja hembra se percata de que mira a otra y le suelta un certero derechazo mandando al Quakstrong macho hacia el cielo, desapareciendo tras una luz parpadeante.
 
-###### EXT. ISLA VOLCÁNICA. BOSQUE-DÍA
+###### EXT. ISLA VOLCÁNICA. BOSQUE DE LA PROCESIONARIA-DÍA
 > Zeniel sigue corriendo a pesar de no seguirle nadie. Se ha internado ya en la profundidad del bosque.
 > Zeniel se para en seco. Un viento fuerte mece los arboles a su alrededor. 
 > Las flores y hojas del suelo surcan por el aire alrededor de Zeniel. 
