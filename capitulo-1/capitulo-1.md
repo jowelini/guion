@@ -49,7 +49,7 @@ Guion INIMAT
 > Sólo el rumor del arroyo discute con la armonía del paisaje.
 > Zeniel se toca la cabeza con un gesto de dolor. Comprueba una herida en su frente con la sangre ya seca.
 
-###### ZENIEL
+###### JACKY
 > (pensando)
 > ¿Dónde demonios estoy?
 > Zeniel gira el cuello hacia su izquierda. La cara de otro hombre aparece ante él. 
@@ -62,7 +62,7 @@ Guion INIMAT
 > Una mirada inerte que asusta. El rostro de Zeniel mezcla tristeza y miedo a partes iguales. 
 > Zeniel se queda unos segundos en el agua. Algo se mueve desde el interior del río.
 
-###### ZENIEL
+###### JACKY
 > ¿Pero qué…?
 > 
 > Un enorme QUAKSTRONG MACHO hace su aparición desde el agua. Sus musculados brazos sujetan una roca. 
