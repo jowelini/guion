@@ -43,19 +43,19 @@ Guion INIMAT
 > (en la distancia) No me digas lo que no es posible.
 
 ###### EXT.ISLA VOLCÁNICA.RÍO-DÍA
-> El sol se encuentra en lo alto del cielo. Sus rayos impactan directamente sobre la cara de ZENIEL. 
+> El sol se encuentra en lo alto del cielo. Sus rayos impactan directamente sobre la cara de Jacky. 
 > Sus ojos parpadean. Recobra el sentido.
 > Permanece unos segundos tumbado e inmóvil en la orilla del río. 
 > Sólo el rumor del arroyo discute con la armonía del paisaje.
-> Zeniel se toca la cabeza con un gesto de dolor. Comprueba una herida en su frente con la sangre ya seca.
+> Jacky se toca la cabeza con un gesto de dolor. Comprueba una herida en su frente con la sangre ya seca.
 
 ###### JACKY
 > (pensando)
 > ¿Dónde demonios estoy?
-> Zeniel gira el cuello hacia su izquierda. La cara de otro hombre aparece ante él. 
+> Jacky gira el cuello hacia su izquierda. La cara de otro hombre aparece ante él. 
 > Un parche en el ojo caracteriza el rostro del hombre. Su ojo libre está completamente abierto pero sin vida. 
 > Viste con un uniforme negro. Su cuerpo permanece quieto. Un baño de sangre rodea su cuerpo y tiñen el agua del río.
-> Zeniel se levanta sobresaltado alejándose unos pasos de la orilla del río. 
+> Jacky se levanta sobresaltado alejándose unos pasos de la orilla del río. 
 > Mira a su alrededor, después al hombre sin vida. Asustado, Zeniel empuja el cuerpo hacia el interior del río. 
 > La corriente arrastra al hombre. Zeniel metido hasta las rodillas en el agua le sigue con la mirada. 
 > No puede evitar ver el único ojo del hombre que parece mirarle fijamente mientras se aleja. 
@@ -67,16 +67,16 @@ Guion INIMAT
 > 
 > Un enorme QUAKSTRONG MACHO hace su aparición desde el agua. Sus musculados brazos sujetan una roca. 
 > Parece dispuesto a aplastar a Zeniel.
-> Zeniel da un GRITO CON GRANDES DOSIS CÓMICAS y corre despavorido en dirección al bosque frondoso situado alrededor del río.
+> Jacky da un GRITO CON GRANDES DOSIS CÓMICAS y corre despavorido en dirección al bosque frondoso situado alrededor del río.
 > El Quakstrong ajeno a Zeniel deja su gigantesca piedra en el suelo, junto a otro montón de rocas a la orilla del río.
 > Las rocas forman el dibujo de un corazón gigante.
 > El Quakstrong hace un llamamiento con unos estrambóticos ALARIDOS DE PATO GIGANTE “CUAC,CUAC,CUAC”.
 > Del río aparece un QUAKSTRONG HEMBRA. El rostro del macho muestra que está encandilado ante la presencia femenina. El corazón de piedras conquista a la hembra al instante. Los dos se acercan acaramelados.
 > Una QUAKSTRONG HEMBRA SEXY aparece en escena. Camina contoneando sugerente su enorme trasero, pasando delante de la pareja. El Quakstrong macho le sigue descaradamente con la mirada, embobado, con los ojos como platos. Su pareja hembra se percata de que mira a otra y le suelta un certero derechazo mandando al Quakstrong macho hacia el cielo, desapareciendo tras una luz parpadeante.
 
-###### EXT. ISLA VOLCÁNICA. BOSQUE DE LA PROCESIONARIA-DÍA
-> Zeniel sigue corriendo a pesar de no seguirle nadie. Se ha internado ya en la profundidad del bosque.
-> Zeniel se para en seco. Un viento fuerte mece los arboles a su alrededor. 
+###### EXT. ISLA VOLCÁNICA DE LAGUASANGE. BOSQUE DE LA PROCESIONARIA-DÍA
+> Jacky sigue corriendo a pesar de no seguirle nadie. Se ha internado ya en la profundidad del bosque.
+> Jacky se para en seco. Un viento fuerte mece los arboles a su alrededor. 
 > Las flores y hojas del suelo surcan por el aire alrededor de Zeniel. 
 > Un hermoso espectáculo. Sin embargo, Zeniel parece asustado. 
 > El RUMOR DEL VIENTO esconde susurros casi imperceptibles. VOCES INENTENDIBLES.
@@ -88,7 +88,7 @@ Guion INIMAT
 >   tiene mucho peso en el argumento total que había pensado en la serie. Aquí no se mostraría entero, sino unas
 >   partes de él )))
 > 
-> Un estallido de luz se origina en Zeniel recobrando de nuevo su apariencia. 
+> Un estallido de luz se origina en Jacky recobrando de nuevo su apariencia. 
 > La luz se propaga por el bosque y hacia el cielo, que se torna gris. Un cristal de color negro se rompe. 
 > Los pedazos salen disparados de los bolsillos de Zeniel. Su cuerpo cae desplomado al suelo.
 > La luz sigue extendiéndose por toda la isla. 
