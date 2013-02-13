@@ -42,7 +42,7 @@ Guion INIMAT
 ###### VOZ MASCULINA
 > (en la distancia) No me digas lo que no es posible.
 
-###### EXT.ISLA VOLCÁNICA.RÍO-DÍA
+###### EXT.ISLA VOLCÁNICA DE LAGUASAGUI.RÍO-DÍA
 > El sol se encuentra en lo alto del cielo. Sus rayos impactan directamente sobre la cara de ZENIEL. 
 > Sus ojos parpadean. Recobra el sentido.
 > Permanece unos segundos tumbado e inmóvil en la orilla del río. 
